@@ -26,5 +26,17 @@
 - https://browserslist.dev/?q=bGFzdCAxMCBjaHJvbWUgIHZlcnNpb25z
 
 
+#Extension (Visual studio code)
+
+- Prettier
+- Bracket Pair colorization
+- ESLint
+- Better Comment
+
+#Website
+
+- Babel
+
+
 
 
